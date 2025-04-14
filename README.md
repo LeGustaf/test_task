@@ -16,6 +16,8 @@ Includes full Doxygen documentation and unit tests.
 
 > Documentation is generated with Doxygen and available in the `docs/html` folder.
 
+[View Documentation](https://your-username.github.io/your-repo-name/)
+ 
 You can open it locally:
 ```sh
 docs/html/index.html
