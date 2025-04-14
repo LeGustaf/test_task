@@ -12,6 +12,21 @@ Includes full Doxygen documentation and unit tests.
 - Caching-based contour validity checks
 - Fully documented with Doxygen
 
+## Getting started
+This project is built with standard C++14 and tested with Visual Studio 2022.
+To build:
+
+1. Open the `.sln` file in Visual Studio
+2. Select `Build → Build Solution` or press `Ctrl+Shift+B`
+
+No external dependencies are required.
+Unit tests are located in the `unit_test/` project and use Google Test.
+To run:
+
+1. Set the unit test project as the startup project
+2. Press `F5` to build and run all tests
+
+
 ## Documentation
 
 > Documentation is generated with Doxygen and available in the `docs/html` folder.
