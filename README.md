@@ -15,9 +15,11 @@ Includes full Doxygen documentation and unit tests.
 ## Documentation
 
 > Documentation is generated with Doxygen and available in the `docs/html` folder.
-[View Documentation for 2D Contour]([[https://legustaf.github.io/test_task/2D_Contour/])
+[View Documentation for 2D Contour]([https://legustaf.github.io/test_task/2D_Contour/])
+
 [View Documentation for Unit Testing]([https://legustaf.github.io/test_task/Unit_Test/])
  
 You can open it locally:
 ```sh
-docs/html/index.html
+docs/2D_Contour/index.html
+docs/Unit_Test/index.html
