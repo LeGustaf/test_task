@@ -20,7 +20,7 @@ To build:
 2. Select `Build → Build Solution` or press `Ctrl+Shift+B`
 
 No external dependencies are required.
-Unit tests are located in the `unit_test/` project and use Google Test.
+Unit tests are located in the `Contour_Unit_Test/` project and use Google Test.
 To run:
 
 1. Set the unit test project as the startup project
