@@ -1,0 +1,29 @@
+# --- Project Info ---
+PROJECT_NAME           = "Scopic Test Task - Unit Tests"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = .
+FILE_PATTERNS          = *.cpp *.h
+RECURSIVE              = YES
+
+# --- Preprocessor Settings ---
+ENABLE_PREPROCESSING   = YES
+MACRO_EXPANSION        = YES
+EXPAND_ONLY_PREDEF     = NO
+PREDEFINED             = \
+  TEST(x, y)=void x##_##y(); \
+  TEST_F(x, y)=void x##_##y(); \
+  TEST_P(x, y)=void x##_##y()
+
+# --- Exclude gtest and external folders ---
+EXCLUDE                = */gtest/* */googletest/* */third_party/*
+EXCLUDE_PATTERNS       = */gtest* */googletest*
+
+# --- Output Settings ---
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+INLINE_SOURCES         = YES
+SOURCE_BROWSER         = YES
+FULL_PATH_NAMES        = NO

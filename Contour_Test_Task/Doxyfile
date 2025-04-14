@@ -1,0 +1,35 @@
+# Project Info
+PROJECT_NAME           = "Scopic Test Task - 2D Contours"
+OUTPUT_DIRECTORY       = docs
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+
+# Source Input
+INPUT                  = .
+FILE_PATTERNS          = *.h *.cpp
+RECURSIVE              = YES
+EXCLUDE_PATTERNS       = */tests/* */unit_tests/*
+
+# Preprocessing
+ENABLE_PREPROCESSING   = YES
+MACRO_EXPANSION        = YES
+EXPAND_ONLY_PREDEF     = NO
+
+# Documentation Behavior
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = YES
+FULL_PATH_NAMES        = NO
+JAVADOC_AUTOBRIEF      = YES
+
+# Warnings and Output
+QUIET                  = NO
+WARN_IF_UNDOCUMENTED   = NO
+
+# Dot Graphs (optional, if you want class diagrams)
+HAVE_DOT               = YES
+CLASS_DIAGRAMS         = YES
+CALL_GRAPH             = NO
+CALLER_GRAPH           = NO

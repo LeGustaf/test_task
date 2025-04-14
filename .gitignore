@@ -30,3 +30,64 @@
 *.exe
 *.out
 *.app
+# === General ===
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.sdf
+*.db
+
+# === Doxygen Output ===
+docs/html/
+docs/latex/
+
+# === OS-Specific Files ===
+.DS_Store
+Thumbs.db
+
+# === Visual Studio ===
+.vscode/
+.vs/
+*.user
+*.vcxproj.user
+*.opensdf
+*.suo
+*.VC.db
+*.ipch
+*.ncb
+*.aps
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.tlog
+*.lastbuildstate
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+# === Build Artifacts ===
+*.exe
+*.out
+*.app
+*.dll
+*.lib
+*.a
+*.o
+*.obj
+*.pch
+
+# === CMake (if used) ===
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# === Backup Files ===
+*~
+*.orig
+*.rej

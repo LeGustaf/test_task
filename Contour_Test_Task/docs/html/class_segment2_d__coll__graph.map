@@ -1,0 +1,5 @@
+<map id="Segment2D" name="Segment2D">
+<area shape="rect" id="Node000001" title="Abstract interface for 2D geometric segments." alt="" coords="5,112,96,139"/>
+<area shape="rect" id="Node000002" href="$class_my_point.html" title="Represents a 3D point with x, y, z coordinates." alt="" coords="16,5,85,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,47,53,112,48,112,48,47"/>
+</map>

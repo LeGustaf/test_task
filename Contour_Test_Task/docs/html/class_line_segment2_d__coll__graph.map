@@ -1,0 +1,8 @@
+<map id="LineSegment2D" name="LineSegment2D">
+<area shape="rect" id="Node000001" title="Represents a straight 2D line segment between two points." alt="" coords="5,193,120,220"/>
+<area shape="rect" id="Node000002" href="$class_segment2_d.html" title="Abstract interface for 2D geometric segments." alt="" coords="92,115,182,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,155,77,195,73,191,112,151"/>
+<area shape="rect" id="Node000003" href="$class_my_point.html" title="Represents a 3D point with x, y, z coordinates." alt="" coords="13,5,82,32"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="45,48,39,93,41,144,49,170,59,192,54,194,44,172,36,144,34,93,39,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,42,129,112,125,116,66,46"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Segment2D" name="Segment2D">
+<area shape="rect" id="Node000001" title="Abstract interface for 2D geometric segments." alt="" coords="83,5,174,32"/>
+<area shape="rect" id="Node000002" href="$class_arc_segment2_d.html" title="Represents a 2D arc segment defined by a circular arc between two points." alt="" coords="5,80,116,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,45,74,81,70,78,104,42"/>
+<area shape="rect" id="Node000003" href="$class_line_segment2_d.html" title="Represents a straight 2D line segment between two points." alt="" coords="139,80,254,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,42,187,78,183,81,149,45"/>
+</map>

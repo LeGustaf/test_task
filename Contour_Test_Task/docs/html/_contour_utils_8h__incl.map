@@ -1,0 +1,27 @@
+<map id="ContourUtils.h" name="ContourUtils.h">
+<area shape="rect" id="Node000001" title="Utility functions for generating and manipulating Contour2D objects." alt="" coords="172,5,277,32"/>
+<area shape="rect" id="Node000002" href="$_contour2_d_8h.html" title="Defines a 2D contour composed of connected line or arc segments." alt="" coords="110,80,206,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,34,182,70,178,67,211,31"/>
+<area shape="rect" id="Node000011" href="$_line_segment2_d_8h.html" title="Represents a 2D line segment defined by two endpoints and provides slope calculation." alt="" coords="230,80,355,107"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="238,31,272,67,269,70,235,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,229,63,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,109,56,219,52,216,145,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="86,229,155,256"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="148,109,133,130,121,155,116,185,118,214,113,215,111,185,115,154,128,127,144,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="130,155,208,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="162,107,167,139,162,140,157,108"/>
+<area shape="rect" id="Node000006" href="$_segment2_d_8h.html" title="Defines the abstract base class for all 2D segments (e.g., lines, arcs)." alt="" coords="231,155,333,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="181,105,249,144,246,149,178,110"/>
+<area shape="rect" id="Node000009" href="$_my_point_8h.html" title="Defines a simple 3D point class with basic distance and accessor methods." alt="" coords="340,229,421,256"/>
+<area shape="poly" id="edge12_Node000002_Node000009" title=" " alt="" coords="207,103,287,125,322,138,346,153,367,182,378,213,373,215,362,184,343,157,320,143,285,130,205,108"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="238,185,79,231,77,226,237,179"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="255,184,164,225,162,220,253,179"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="178,229,231,256"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="270,184,231,221,227,217,267,180"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="255,229,317,256"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="285,182,287,214,282,214,280,182"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="301,180,353,218,350,222,298,184"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="352,304,409,331"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="383,257,383,288,378,288,378,257"/>
+<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="293,108,289,140,283,139,288,107"/>
+</map>

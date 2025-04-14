@@ -1,0 +1,38 @@
+<map id="main.cpp" name="main.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,5,315,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="318,155,390,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,31,343,140,338,142,282,34"/>
+<area shape="rect" id="Node000003" href="$_contour2_d_8h.html" title="Defines a 2D contour composed of connected line or arc segments." alt="" coords="49,155,144,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,28,181,45,151,61,126,82,109,110,102,140,96,139,104,108,121,78,148,56,179,40,240,23"/>
+<area shape="rect" id="Node000012" href="$_line_segment2_d_8h.html" title="Represents a 2D line segment defined by two endpoints and provides slope calculation." alt="" coords="169,155,294,181"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="277,33,255,107,244,141,239,139,250,106,272,32"/>
+<area shape="rect" id="Node000013" href="$_arc_segment2_d_8h.html" title="Defines a 2D circular arc segment derived from Segment2D." alt="" coords="367,80,488,107"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="305,30,389,70,386,75,303,35"/>
+<area shape="rect" id="Node000014" href="$_contour_utils_8h.html" title="Utility functions for generating and manipulating Contour2D objects." alt="" coords="135,80,240,107"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="264,35,216,72,213,68,261,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="130,304,187,331"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,180,135,228,155,288,150,290,130,230,103,183"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,304,74,331"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="78,184,53,204,34,230,29,260,33,289,28,290,24,260,29,228,49,200,74,180"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="43,229,121,256"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="97,182,90,215,85,214,92,181"/>
+<area shape="rect" id="Node000007" href="$_segment2_d_8h.html" title="Defines the abstract base class for all 2D segments (e.g., lines, arcs)." alt="" coords="196,229,297,256"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="124,179,207,220,205,224,122,184"/>
+<area shape="rect" id="Node000010" href="$_my_point_8h.html" title="Defines a simple 3D point class with basic distance and accessor methods." alt="" coords="374,304,454,331"/>
+<area shape="poly" id="edge13_Node000003_Node000010" title=" " alt="" coords="146,178,237,202,310,227,356,258,394,291,390,295,353,262,308,232,236,207,144,183"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="233,259,187,296,183,292,229,254"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="211,259,89,302,87,297,209,254"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="297,304,350,331"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="261,255,301,291,297,295,258,258"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="212,304,273,331"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="248,257,246,289,241,288,243,256"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="276,254,372,295,370,300,274,259"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="386,379,443,405"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="417,331,417,363,412,363,412,331"/>
+<area shape="poly" id="edge15_Node000012_Node000007" title=" " alt="" coords="237,181,243,214,238,215,231,182"/>
+<area shape="poly" id="edge17_Node000013_Node000002" title=" " alt="" coords="417,109,380,145,376,142,413,105"/>
+<area shape="poly" id="edge18_Node000013_Node000007" title=" " alt="" coords="430,107,424,144,416,165,404,183,384,201,361,214,313,233,311,228,359,210,381,196,400,180,412,162,419,143,425,107"/>
+<area shape="poly" id="edge19_Node000013_Node000010" title=" " alt="" coords="431,107,431,155,431,181,421,289,415,288,426,181,426,155,425,107"/>
+<area shape="poly" id="edge21_Node000014_Node000003" title=" " alt="" coords="173,109,126,147,122,143,170,105"/>
+<area shape="poly" id="edge22_Node000014_Node000012" title=" " alt="" coords="197,106,218,140,214,143,193,109"/>
+</map>
