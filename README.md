@@ -32,7 +32,7 @@ To run:
 > Documentation is generated with Doxygen and available in the `docs/html` folder.
 
 UML Diagram
-[UML Diagram](docs/uml_diagram.png)
+[UML Diagram](docs/UML_2_0.png)
 
 [View Documentation for 2D Contour](https://legustaf.github.io/test_task/2D_Contour/)
 
