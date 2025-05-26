@@ -21,6 +21,7 @@ To build:
 
 No external dependencies are required.
 Unit tests are located in the `Contour_Unit_Test/` project and use Google Test.
+
 To run:
 
 1. Set the unit test project as the startup project
